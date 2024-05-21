@@ -32,7 +32,7 @@ For the correct execution and reproducibility of the notebooks, we recommend the
 System requirements are generally basic and in specific cases where GPUs are used, it may be possible to run the project code using either the CPU or on a cloud environment in case the CPU becomes insufficient.
 
 The required libraries are listed at the beginning of each notebook. We also recommend installing the [`Tensorflow`](https://docs.anaconda.com/free/working-with-conda/applications/tensorflow/) library.
-It is advisable to check for compatibility between certain versions of the libraries used in each project, with particular attention to numpy, matplotlib, seaborn and tensorflow.
+It is advisable to check for compatibility between certain versions of the libraries used in each project, with particular attention to `numpy`, `matplotlib`, `seaborn` and `tensorflow`.
 
 ## 3. Status
   1. **Football_stats** notebook is 100% complete.
