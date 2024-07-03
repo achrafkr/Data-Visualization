@@ -37,6 +37,7 @@ It is advisable to check for compatibility between certain versions of the libra
 ## 3. Status
   1. **Football_stats** notebook is 100% complete.
   2. **Feature_visualization** notebook is 70% complete: All coding elements are ready. Annotations are going underway.
+  3. **Weather_analysis** notebook is 10% complete. More content and explanations are expected to come.
 
 
 [Ongoing...]
